@@ -1,0 +1,22 @@
+.welbevinden label {
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+input[type="radio"] {
+  display: block;
+}
+.leraren label {
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+}
